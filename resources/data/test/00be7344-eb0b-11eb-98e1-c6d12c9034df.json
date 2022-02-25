@@ -1,0 +1,25 @@
+[
+   {
+      "content": {
+         "id": 24,
+         "source": [
+            "first institute"
+         ],
+         "dataset_type": "private",
+         "dataset": "batch",
+         "body_part": "ABDOMEN",
+         "image_path": "gs://test-bucket-neu/sedi_xray/1.2.840.113845.11.1000000001951524609.20200930142553.1965433-1.2.392.200036.9125.3.371001761261.64951169572.344023374-1.2.392.200036.9125.4.0.521077562.2265392384.2959359244.dcm",
+         "labels": [
+            {
+               "classification": "hernia",
+               "labelled_by": "Felipe Silva",
+               "labelled_date": "2020-09-14",
+               "labelling_method": "physician",
+               "classification_type": "binary",
+               "value": true
+            }
+         ]
+      },
+      "publication_timestamp": 1626971805.286767
+   }
+]
